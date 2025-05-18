@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin: 30px;
+    text-align: center;
+}
+
+header h1, h3, p {
+    margin-top: 12px;
+}
+
+table {
+    margin: auto;
+    width: 60%;
+    height: 300px;
+    border-top: solid 1.5px black;
+    border-bottom: solid 1.5px black;
+}
+
+form input[type="text"], form textarea {
+    width: 100%;
+}
+
+td.fhead {
+    width: 150px;
+}
